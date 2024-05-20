@@ -3,7 +3,7 @@
 This project focuses on enhancing urban transportation management by predicting the impact of traffic accidents on traffic flow. Utilizing advanced machine learning techniques, our goal is to develop a model capable of forecasting real-time traffic disruptions, ultimately improving road safety and minimizing congestion.
 
 ## Dataset
-The primary dataset used is the [US Accidents Dataset](https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents) from Kaggle, covering traffic accidents across 49 US states from February 2016 to March 2023. This dataset includes approximately 7.7 million records with 46 distinct features related to accident severity, weather conditions, geographical locations, and more.
+The primary dataset used is the [US Accidents dataset](https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents) from Kaggle, covering traffic accidents across 49 US states from February 2016 to March 2023. This dataset includes approximately 7.7 million records with 46 distinct features related to accident severity, weather conditions, geographical locations, and more.
 
 ## Methods and Models
 We explored various machine learning models to address the challenges posed by large and complex data, noise, and real-time changes in conditions. The models include:
